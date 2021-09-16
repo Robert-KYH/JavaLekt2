@@ -4,5 +4,6 @@ public class Main {
 
   public static void main(String[] args) {
     System.out.println("lektion 2");
+    System.out.println("en uppdatering");
   }
 }
